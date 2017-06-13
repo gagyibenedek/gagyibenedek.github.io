@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I'm a software engineer at LogMeIn and sometimes I teach at Training360.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+When I'm not working, I'm researching the patterns and algorithms connecting basketball, trail running, and drums. My devotion for impeccable user interfaces is rivaled only by my constant search for the perfect brew of Chinese green tea.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gagyibenedek@gmail.com](mailto:gagyibenedek@gmail.com)
